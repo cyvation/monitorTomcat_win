@@ -1,0 +1,3 @@
+tomcatroot=C:/tomcat/apache-tomcat-9.0.0.M3
+monitorurl=http://localhost:8080/cqe/account/loginDwbmTree
+sleepminutes=2
